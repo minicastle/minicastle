@@ -6,7 +6,7 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=figma&logoColor=#F24E1E" width='80px' height='fit-contents'/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minicastle&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minicastle&show_icons=true&theme=react)
 <!--
 **minicastle/minicastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
