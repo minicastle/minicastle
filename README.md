@@ -6,7 +6,7 @@
 ## FrontEnd Skills
 <img src="https://img.shields.io/badge/figma-F7F5EB?style=flat-square&logo=figma&logoColor=#F24E1E
 " width='fit-contents' height='30px'/>
-<img src="https://img.shields.io/badge/git-F7F5EB?style=flat-square&logo=gitHub&logoColor=black
+<img src="https://img.shields.io/badge/git-F7F5EB?style=flat-square&logo=gitHub&logoColor=#03001C
 " width='fit-contents' height='30px'/>
 <img src="https://img.shields.io/badge/react-F7F5EB?style=flat-square&logo=react&logoColor=#61DAFB
 " width='fit-contents' height='30px'/>
