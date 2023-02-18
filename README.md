@@ -42,7 +42,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minicastle&show_icons=true&theme=react)
 
-<iframe width=100% height=500px src='https://minicastle.github.io/'>
+<iframe width=100% height=500px src='https://minicastle.github.io/'></iframe>
 <!--
 **minicastle/minicastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
