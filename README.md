@@ -44,7 +44,7 @@
 
 ---
 
-<a style='font-size:50px;' href='https://minicastle.github.io/' target='_blank'>Show Portfolio</a>
+<a style='color:white;cursor:pointer;' href='https://minicastle.github.io/' target='_blank'>Show Portfolio</a>
 <!--
 **minicastle/minicastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
